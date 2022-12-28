@@ -5,4 +5,4 @@ udiskie &
 xbanish &
 nitrogen --restore &
 numlockx &
-xautolock -time 10 -locker slock
+$HOME/.config/xidlehook/config.sh
