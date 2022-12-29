@@ -5,4 +5,5 @@ udiskie &
 xbanish &
 nitrogen --restore &
 numlockx &
+slstatus &
 $HOME/.config/xidlehook/config.sh
