@@ -66,7 +66,7 @@ static const char *dmenucmd[] = { "dmenu_run", "-fn", dmenufont, "-nb", col_gray
 static const char *termcmd[]  = { "st", NULL };
 static const char *kittycmd[] = { "kitty", NULL };
 static const char *lock[]     = { "slock", NULL };
-static const char *browser[]  = { "librewolf", NULL};
+static const char *browser[]  = { "brave", NULL};
 
 static const Key keys[] = {
 	/* modifier                     key        function        argument */
