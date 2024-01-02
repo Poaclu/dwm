@@ -1,7 +1,5 @@
-lxsession &
 picom -f &
 dunst &
-udiskie &
 xbanish &
 nitrogen --restore &
 numlockx &
